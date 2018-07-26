@@ -53,3 +53,7 @@ h2 {
 footer {
   text-align: right;
 }
+
+#press img {
+  border: 5px #ccc solid;
+}
